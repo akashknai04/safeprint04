@@ -84,3 +84,4 @@ When you print an Aadhaar card or a Bank Statement at a local shop, where does t
 3. **Physical Shielding**: The "Hold to Reveal" feature ensures zero visibility until the user is physically present at the shop.
 
 ---
+ 

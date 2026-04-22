@@ -70,4 +70,4 @@ const UploadPage = () => {
   );
 };
 
-export default UploadPage;
+export default UploadPage; 

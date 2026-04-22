@@ -123,3 +123,4 @@ const SparkleIcon = () => (
 );
 
 export default BusinessLandingPage;
+ 

@@ -118,4 +118,4 @@ const PdfCanvasViewer = ({ url }) => {
   );
 };
 
-export default PdfCanvasViewer;
+export default PdfCanvasViewer; 

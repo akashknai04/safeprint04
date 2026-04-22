@@ -119,3 +119,4 @@ const ShopAuthPage = () => {
 };
 
 export default ShopAuthPage;
+ 
