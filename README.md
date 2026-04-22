@@ -57,7 +57,7 @@ When you print an Aadhaar card or a Bank Statement at a local shop, where does t
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/akashknai04/safeprint04.git
-   cd safeprint
+   cd safeprint04
    ```
 
 2. **Install Dependencies**:
