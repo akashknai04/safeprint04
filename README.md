@@ -57,19 +57,16 @@ When you print an Aadhaar card or a Bank Statement at a local shop, where does t
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/akashknai04/safeprint04.git
-   cd safeprint04
+   cd safeprint
    ```
 
 2. **Install Dependencies**:
    ```bash
-   # Install root dependencies
+   # Install root (Frontend) dependencies
    npm install
    
-   # Install Frontend dependencies
-   cd Frontend && npm install
-   
    # Install Backend dependencies
-   cd ../Backend && npm install
+   cd api && npm install
    ```
 
 3. **Run Dev Environment**:
